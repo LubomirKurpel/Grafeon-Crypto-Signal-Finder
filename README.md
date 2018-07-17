@@ -1,5 +1,3 @@
-# Grafeon-Crypto-Signal-Finder
-
 GRAFEON CRYPTO SIGNAL FINDER - CHROME EXTENTION
 ---------------------------
 
@@ -68,5 +66,7 @@ WANT TO THANK ME?
 -----------------
 
 BTC: 14UaupfdhiHv9FNDUSAJLC9aVggmy5Kkww
+
 ETH: 0x8fb8e03642dd8cd4db4940d99aa7188e8a254912
+
 LTC: 0x8fb8e03642dd8cd4db4940d99aa7188e8a254912
